@@ -8,7 +8,7 @@ step 1 --
 very first download zip file.
 
 step 2 --
-if youare using xampp then extract into htdocs directry.
+if you are using xampp then extract into htdocs directry.
 
 step 3 --
 start xampp then run apache 
